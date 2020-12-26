@@ -1,0 +1,37 @@
+4
+MSS124
+van hoc
+nguyen mai
+NXB Giao Duc
+120000
+2020
+456
+5/6/2019
+1
+MSS126
+khoa hoc
+lan hong
+NXB Giao Duc
+43433
+2020
+456
+12/9/2018
+1
+MSS126
+toan hoc
+mai hong
+nxb giao duc
+300000
+2029
+23
+5/6/2020
+0
+MSS123
+Van Hoc
+Kim Lan
+NXB Giao Duc
+23000
+2019
+234
+3/4/2019
+0
